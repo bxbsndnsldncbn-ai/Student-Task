@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794170276 source:c:\users\pc\downloads\kareem\kareem\task 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
