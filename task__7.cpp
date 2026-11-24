@@ -6,10 +6,10 @@ using namespace std;
 
 int main() {
     string names[4] = {
-        "Hadeer Mahmoud",
-        "Youssef Ali",
-        "Ahmed Mostafa",
-        "Esraa Ebrahim"
+        "omar Hassan",
+        "Salma Khaled",
+        "Tarek Adel",
+        "Nourhan sami"
     };
 
     int n = 4;
